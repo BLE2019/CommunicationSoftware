@@ -1,0 +1,14 @@
+C:\Users\computer\Desktop\MqttClient-Lora\MqttClient-Lora\bin\Debug\MqttClient-Lora.exe.config
+C:\Users\computer\Desktop\MqttClient-Lora\MqttClient-Lora\bin\Debug\MqttClient-Lora.exe
+C:\Users\computer\Desktop\MqttClient-Lora\MqttClient-Lora\bin\Debug\MqttClient-Lora.pdb
+C:\Users\computer\Desktop\MqttClient-Lora\MqttClient-Lora\bin\Debug\M2Mqtt.Net.dll
+C:\Users\computer\Desktop\MqttClient-Lora\MqttClient-Lora\bin\Debug\MySql.Data.dll
+C:\Users\computer\Desktop\MqttClient-Lora\MqttClient-Lora\bin\Debug\Newtonsoft.Json.dll
+C:\Users\computer\Desktop\MqttClient-Lora\MqttClient-Lora\obj\Debug\MqttClient_Lora.Form1.resources
+C:\Users\computer\Desktop\MqttClient-Lora\MqttClient-Lora\obj\Debug\MqttClient_Lora.Properties.Resources.resources
+C:\Users\computer\Desktop\MqttClient-Lora\MqttClient-Lora\obj\Debug\MqttClient-Lora.csproj.GenerateResource.Cache
+C:\Users\computer\Desktop\MqttClient-Lora\MqttClient-Lora\obj\Debug\MqttClient-Lora.exe
+C:\Users\computer\Desktop\MqttClient-Lora\MqttClient-Lora\obj\Debug\MqttClient-Lora.pdb
+D:\D\Project code\MqttClient-Lora\MqttClient-Lora\bin\Debug\MqttClient-Lora.exe.config
+D:\D\Project code\MqttClient-Lora\MqttClient-Lora\obj\Debug\MqttClient-Lora.exe
+D:\D\Project code\MqttClient-Lora\MqttClient-Lora\obj\Debug\MqttClient-Lora.pdb
